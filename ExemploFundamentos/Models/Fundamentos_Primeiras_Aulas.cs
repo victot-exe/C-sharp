@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using ExemploFundamentos.Models;
+// using ExemploFundamentos.Models;
 // Console.WriteLine("Hello, World!");
 // int a = 10;
 // int b = 20;
@@ -28,24 +28,24 @@ using ExemploFundamentos.Models;
 //     Console.WriteLine("Quantidade em estoque insuficiente!");
 // }
 
-Console.WriteLine("Escreva uma letra: ");
-string letra = Console.ReadLine();
+// Console.WriteLine("Escreva uma letra: ");
+// string letra = Console.ReadLine();
 
-if(letra == "a" | letra == "e" | letra == "i" | letra == "o" | letra == "u"){
-    Console.WriteLine("Vogal");
-}else{
-    Console.WriteLine("Consoante");
-}
+// if(letra == "a" | letra == "e" | letra == "i" | letra == "o" | letra == "u"){
+//     Console.WriteLine("Vogal");
+// }else{
+//     Console.WriteLine("Consoante");
+// }
 
-switch(letra){
-    case "a":
-    case "e":
-    case "i":
-    case "o":
-    case "u":
-        Console.WriteLine("Vogal");
-        break;
-    default:
-        Console.WriteLine("Não é uma vogal");
-        break;
-}
+// switch(letra){
+//     case "a":
+//     case "e":
+//     case "i":
+//     case "o":
+//     case "u":
+//         Console.WriteLine("Vogal");
+//         break;
+//     default:
+//         Console.WriteLine("Não é uma vogal");
+//         break;
+// }
