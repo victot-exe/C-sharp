@@ -1,6 +1,7 @@
 using ExemploFundamentos.Models;
 
-LacosDeRapeticao laco = new LacosDeRapeticao();
+Arrays testando = new Arrays();
 
-laco.MenuInterativo();
+testando.iniciandoArrayInteiros();
 
+testando.exibindoArrayInteiros();
