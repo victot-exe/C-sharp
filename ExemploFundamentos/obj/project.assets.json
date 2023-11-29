@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\victor.sousa\\.nuget\\packages\\": {}
+    "C:\\Users\\viict\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "projectName": "ExemploFundamentos",
-      "projectPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ExemploFundamentos\\ExemploFundamentos.csproj",
-      "packagesPath": "C:\\Users\\victor.sousa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ExemploFundamentos\\obj\\",
+      "projectPath": "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "packagesPath": "C:\\Users\\viict\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\victor.sousa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\viict\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -54,12 +54,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

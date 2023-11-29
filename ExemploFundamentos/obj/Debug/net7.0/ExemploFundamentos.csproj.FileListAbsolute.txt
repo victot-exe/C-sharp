@@ -26,3 +26,18 @@ C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.pdb
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.genruntimeconfig.cache
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp\ExemploFundamentos\obj\Debug\net7.0\ref\ExemploFundamentos.dll
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.exe
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.deps.json
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.runtimeconfig.json
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.dll
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.pdb
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.sourcelink.json
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.dll
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\obj\Debug\net7.0\refint\ExemploFundamentos.dll
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.pdb
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Users\viict\Documents\DIo\C-sharp\ExemploFundamentos\obj\Debug\net7.0\ref\ExemploFundamentos.dll

@@ -42,7 +42,7 @@ namespace ExemploFundamentos.Models{
 
         public void MenuInterativo(){
             
-            string opcao;
+            string? opcao;
             bool exibirMenu = true;
             
             while(exibirMenu){

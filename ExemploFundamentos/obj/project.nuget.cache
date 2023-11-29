@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "oV1IgMp5s8i0BNuvdXK04Hf22vtywhW9l3Mztv+KB16KL9YQt6+V8zpttCPdsfSRyLSeGoWx22Z2LMdUsawi+w==",
+  "dgSpecHash": "zXgORJyKmd+t3MXJ0mYKbasSzjhD6aWymf+Je26v7CRhSKkopR5I6ofQnzQS9hGQGig7Hc5vqfEn0Zj2V5lL+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ExemploFundamentos\\ExemploFundamentos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\ExemploFundamentos\\ExemploFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viict\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\viict\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\viict\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\viict\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,6 +1,7 @@
 using ExemploFundamentos.Models;
 
-LacosDeRapeticao laco = new LacosDeRapeticao();
+ListIntro listIntro = new ListIntro();
 
-laco.MenuInterativo();
+listIntro.adicionandoElementos();
 
+listIntro.percorrendoArray();
