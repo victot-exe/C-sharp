@@ -12,8 +12,3 @@ cursoDeIngles.AdicionarAluno(p1);
 cursoDeIngles.AdicionarAluno(p2);
 
 cursoDeIngles.ListarAlunos();
-
-Console.WriteLine(cursoDeIngles.RemoverAluno(p2));
-
-
-

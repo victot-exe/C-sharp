@@ -55,5 +55,10 @@ namespace ExemploExplorando.Models{
         public void Apresentar(){
             Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
         }
+
+        public override string ToString()
+        {
+            return $"Nome: {NomeCompleto}, Idade: {Idade}";
+        }
     }
 }

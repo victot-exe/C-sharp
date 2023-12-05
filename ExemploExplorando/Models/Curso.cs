@@ -29,8 +29,8 @@ namespace ExemploExplorando.Models{
         public void ListarAlunos(){
             Console.WriteLine($"Alunos do curso de {Nome}:");
 
-            foreach (Pessoa aluno in Alunos){
-                Console.WriteLine($"    {aluno.NomeCompleto}");
+            for(int i = 0; i < this.Alunos.Count; i++){
+                Console.WriteLine($"{i + 1} - {Alunos[i].NomeCompleto}");
             }
         }
     }
