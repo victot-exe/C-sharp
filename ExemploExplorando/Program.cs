@@ -1,14 +1,7 @@
 ﻿using ExemploExplorando.Models;
 
-Pessoa p1 = new("victor", "faria");
+TestandoDateTime date = new();
 
-Pessoa p2 = new ();
-p2.Nome = "Leonardo";
-p2.Sobrenome = "Leitão";
+date.MostrarData();
 
-Curso cursoDeIngles = new("Ingles");
-
-cursoDeIngles.AdicionarAluno(p1); 
-cursoDeIngles.AdicionarAluno(p2);
-
-cursoDeIngles.ListarAlunos();
+date.StringParaData("1998/19/21 18:59");
