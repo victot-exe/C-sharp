@@ -12,6 +12,8 @@ namespace ExemploExplorando.Models{
             this.Sobrenome = sobrenome;
         }
 
+        
+
         private string _nome;
         public string Nome{
             get => _nome.ToUpper();
