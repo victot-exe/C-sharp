@@ -12,7 +12,10 @@ namespace ExemploExplorando.Models{
             this.Sobrenome = sobrenome;
         }
 
-        
+        public void Deconstruct(out string nome, out string sobrenome){//um método que retorna em variáveis os atributos da classe, o contrário do construtor
+            nome = Nome;
+            sobrenome = Sobrenome;
+        }
 
         private string _nome;
         public string Nome{
