@@ -7,3 +7,4 @@ Processo inverso a serialização.
 * **JavaScript Notation Object** -> é um formato de texto que segue a sintaxe **JS**, usado para transmitir dados entre apps.
 * Possibilita a troca de informações entre diferentes linguagens.  
 [JSON Viewer](https://www.codebeautift.org)
+* Para ele transferir as datas ele usa o *ISO 8601* que é o formato oficial para a representação de datas.
