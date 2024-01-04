@@ -10,21 +10,20 @@ namespace ExemploExplorando.Models{
             this.Id = id;
             this.Produto = produto;
             this.Preco = preco;
-            this.Serializado = this.GetSerialização();
             this.CreateArquivo();
         }
         
         public int Id{get; set;}
         public string Produto{get; set;}
         public decimal Preco{get; set;}
-        public string Serializado;
 
         public string GetSerialização(){
             return JsonConvert.SerializeObject(this, Formatting.Indented);
         }
 
         public void CreateArquivo(){
-            File.WriteAllText("Arquives/vendas.json", Serializado);
+            string serializado = this.GetSerialização();
+            File.WriteAllText("Arquives/vendas.json", serializado);
         }
     }
 }

@@ -5,4 +5,5 @@ Processo inverso a serialização.
 
 ## JSON
 * **JavaScript Notation Object** -> é um formato de texto que segue a sintaxe **JS**, usado para transmitir dados entre apps.
-* Possibilita a troca de informações entre diferentes linguagens.
+* Possibilita a troca de informações entre diferentes linguagens.  
+[JSON Viewer](https://www.codebeautift.org)
