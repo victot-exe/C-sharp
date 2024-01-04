@@ -28,3 +28,6 @@ C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp\ExemploExplorando\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CopyComplete
