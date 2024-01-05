@@ -1,8 +1,8 @@
 ﻿using ExemploExplorando.Model;
 using ExemploExplorando.Models;
 
-ClasseGenerica<int> classeGenerica = new();
+int numero = 20;
+bool par = numero.EhPar();
 
-classeGenerica.AdicionarElemento(30);
-
-Console.WriteLine(classeGenerica[0]);
+string mensagem = "O numero " + numero + " é " +  (par ? "Par" : "impar");
+Console.WriteLine(mensagem);

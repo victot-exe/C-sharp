@@ -30,3 +30,12 @@
     Console.WriteLine($"Tipo: {variavel.GetType()}, valor {variavel}");
     ~~~
     * Classe genérica -> As classes genéricas encapsulam operações de um tipo que não foi especificado ainda. `List<Tipo> lista = new()`
+    * Método de extenção -> Permite "adicionar" um novo tipo existente sem criar um tipo derivado, recompilar ou, caso contrario modificar o tipo original. Criando uma class  
+    ~~~
+        public static class MetodoDeExtencao{
+        public static bool EhPar(this int numero){
+            return numero % 2 == 0;
+        }
+    }
+    ~~~
+    * Quando vc declara o método e a class dessa maneira vc diz para o programa que ele estende o tipo da variável.
