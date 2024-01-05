@@ -17,5 +17,14 @@ namespace ExemploExplorando.Models{
             File.WriteAllText("Arquives/vendas.json", Serializado);
             Console.WriteLine(Serializado);
         }
+
+        public void DeserializandoJSON(string caminho){
+            string conteudoArquivo = File.ReadAllText(caminho);
+            vendas = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+
+            foreach (Venda venda in vendas){
+                Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto} - r$ {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
+            }
+        }
     }
 }
