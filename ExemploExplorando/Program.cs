@@ -1,8 +1,8 @@
 ﻿using ExemploExplorando.Model;
 using ExemploExplorando.Models;
 
-dynamic variavel = 4;
-Console.WriteLine($"Tipo: {variavel.GetType()}, valor {variavel}");
+ClasseGenerica<int> classeGenerica = new();
 
-variavel = "Texto";
-Console.WriteLine($"Tipo: {variavel.GetType()}, valor {variavel}");
+classeGenerica.AdicionarElemento(30);
+
+Console.WriteLine(classeGenerica[0]);
