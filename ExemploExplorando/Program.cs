@@ -1,6 +1,8 @@
 ﻿using ExemploExplorando.Model;
 using ExemploExplorando.Models;
 
-VendasColecaoParaJSON teste = new();
+dynamic variavel = 4;
+Console.WriteLine($"Tipo: {variavel.GetType()}, valor {variavel}");
 
-teste.DeserializandoJSON("Arquives/vendas.json");
+variavel = "Texto";
+Console.WriteLine($"Tipo: {variavel.GetType()}, valor {variavel}");
