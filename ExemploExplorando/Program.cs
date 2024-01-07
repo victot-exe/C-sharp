@@ -1,8 +1,9 @@
 ﻿using ExemploExplorando.Model;
 using ExemploExplorando.Models;
 
-int numero = 20;
-bool par = numero.EhPar();
-
-string mensagem = "O numero " + numero + " é " +  (par ? "Par" : "impar");
-Console.WriteLine(mensagem);
+bool? desejaReceberEmail = null;
+if(desejaReceberEmail.HasValue & desejaReceberEmail.Value){
+    Console.WriteLine("True");
+} else{
+    Console.WriteLine("False");
+}

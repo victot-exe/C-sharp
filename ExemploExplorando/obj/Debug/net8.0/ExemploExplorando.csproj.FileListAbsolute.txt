@@ -31,3 +31,6 @@ C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp\ExemploExplorando\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.AssemblyReference.cache
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C#\C-sharp\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CopyComplete
+C:\Users\viict\Documents\DIo\C-sharp\ExemploExplorando\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\viict\Documents\DIo\C-sharp\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\viict\Documents\DIo\C-sharp\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CopyComplete
