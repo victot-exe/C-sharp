@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\ExemploExplorando\\ExemploExplorando.csproj": {}
+    "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ExemploExplorando\\ExemploExplorando.csproj": {}
   },
   "projects": {
-    "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\ExemploExplorando\\ExemploExplorando.csproj": {
+    "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ExemploExplorando\\ExemploExplorando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectUniqueName": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ExemploExplorando\\ExemploExplorando.csproj",
         "projectName": "ExemploExplorando",
-        "projectPath": "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\ExemploExplorando\\ExemploExplorando.csproj",
-        "packagesPath": "C:\\Users\\viict\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\ExemploExplorando\\obj\\",
+        "projectPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ExemploExplorando\\ExemploExplorando.csproj",
+        "packagesPath": "C:\\Users\\victor.sousa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ExemploExplorando\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\viict\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\victor.sousa\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
