@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ExemploExplorando\\ExemploExplorando.csproj": {}
+    "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ModuloAPI\\ModuloAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ExemploExplorando\\ExemploExplorando.csproj": {
+    "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ModuloAPI\\ModuloAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ExemploExplorando\\ExemploExplorando.csproj",
-        "projectName": "ExemploExplorando",
-        "projectPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectUniqueName": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ModuloAPI\\ModuloAPI.csproj",
+        "projectName": "ModuloAPI",
+        "projectPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ModuloAPI\\ModuloAPI.csproj",
         "packagesPath": "C:\\Users\\victor.sousa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ExemploExplorando\\obj\\",
+        "outputPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\ModuloAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victor.sousa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,9 +38,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Newtonsoft.Json": {
+            "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[13.0.3, )"
+              "version": "[8.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
@@ -55,6 +59,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
