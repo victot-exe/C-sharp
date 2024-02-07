@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\APIs\\APIntro\\API-intro.csproj": {}
+    "D:\\Documentos\\C#\\C-sharp\\APIs\\APIntro\\API-intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\APIs\\APIntro\\API-intro.csproj": {
+    "D:\\Documentos\\C#\\C-sharp\\APIs\\APIntro\\API-intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\APIs\\APIntro\\API-intro.csproj",
+        "projectUniqueName": "D:\\Documentos\\C#\\C-sharp\\APIs\\APIntro\\API-intro.csproj",
         "projectName": "API-intro",
-        "projectPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\APIs\\APIntro\\API-intro.csproj",
-        "packagesPath": "C:\\Users\\victor.sousa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C#\\C-sharp\\APIs\\APIntro\\obj\\",
+        "projectPath": "D:\\Documentos\\C#\\C-sharp\\APIs\\APIntro\\API-intro.csproj",
+        "packagesPath": "C:\\Users\\viict\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\C#\\C-sharp\\APIs\\APIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\victor.sousa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\viict\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
