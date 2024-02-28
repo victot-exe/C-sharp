@@ -3978,7 +3978,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\viict\\.nuget\\packages\\": {}
+    "C:\\Users\\viict\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -3989,13 +3990,19 @@
       "packagesPath": "C:\\Users\\viict\\.nuget\\packages\\",
       "outputPath": "D:\\Documentos\\C#\\C-sharp\\APIs\\ProjetoMVC\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\viict\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\viict\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
