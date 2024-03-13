@@ -7,9 +7,14 @@ namespace Calculadora.Services
 {
     public class CalculadoraImplementacao
     {
-        public int somar (int a, int b)
+        public int Somar (int a, int b)
         {
             return a + b;
+        }
+
+        public bool isPar(int num)
+        {
+            return num % 2 == 0;
         }
     }
 }

@@ -13,3 +13,18 @@ C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C-sharp\Te
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.pdb
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
 C:\Users\victor.sousa\OneDrive - Adventistas\Área de Trabalho\DEV AT\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\viict\Documents\DIo\C-sharp\TestesUnitarios\TestesUnitarios\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll

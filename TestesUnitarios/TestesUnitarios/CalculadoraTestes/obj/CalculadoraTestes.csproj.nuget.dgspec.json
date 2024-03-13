@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C-sharp\\TestesUnitarios\\TestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj": {}
+    "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\TestesUnitarios\\TestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C-sharp\\TestesUnitarios\\TestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj": {
+    "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\TestesUnitarios\\TestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C-sharp\\TestesUnitarios\\TestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj",
+        "projectUniqueName": "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\TestesUnitarios\\TestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj",
         "projectName": "CalculadoraTestes",
-        "projectPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C-sharp\\TestesUnitarios\\TestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj",
-        "packagesPath": "C:\\Users\\victor.sousa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C-sharp\\TestesUnitarios\\TestesUnitarios\\CalculadoraTestes\\obj\\",
+        "projectPath": "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\TestesUnitarios\\TestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj",
+        "packagesPath": "C:\\Users\\viict\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\TestesUnitarios\\TestesUnitarios\\CalculadoraTestes\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\victor.sousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\viict\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C-sharp\\TestesUnitarios\\TestesUnitarios\\Calculadora\\Calculadora.csproj": {
-                "projectPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C-sharp\\TestesUnitarios\\TestesUnitarios\\Calculadora\\Calculadora.csproj"
+              "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\TestesUnitarios\\TestesUnitarios\\Calculadora\\Calculadora.csproj": {
+                "projectPath": "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\TestesUnitarios\\TestesUnitarios\\Calculadora\\Calculadora.csproj"
               }
             }
           }
@@ -42,11 +36,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -86,32 +75,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C-sharp\\TestesUnitarios\\TestesUnitarios\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\TestesUnitarios\\TestesUnitarios\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C-sharp\\TestesUnitarios\\TestesUnitarios\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\TestesUnitarios\\TestesUnitarios\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C-sharp\\TestesUnitarios\\TestesUnitarios\\Calculadora\\Calculadora.csproj",
-        "packagesPath": "C:\\Users\\victor.sousa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.sousa\\OneDrive - Adventistas\\Área de Trabalho\\DEV AT\\C-sharp\\TestesUnitarios\\TestesUnitarios\\Calculadora\\obj\\",
+        "projectPath": "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\TestesUnitarios\\TestesUnitarios\\Calculadora\\Calculadora.csproj",
+        "packagesPath": "C:\\Users\\viict\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\viict\\Documents\\DIo\\C-sharp\\TestesUnitarios\\TestesUnitarios\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\victor.sousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\viict\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -124,11 +107,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -150,7 +128,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
